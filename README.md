@@ -3,7 +3,7 @@
 
 - 👀 I’m interested in creating React frontend or MERN (MongoDB, Express.js, React.js, Node.js) fullstack projects.
 - 🏫 I'm a bachelor's student at [Astana IT University](https://astanait.edu.kz/)
-- 📫 How to reach me [https://t.me/Silhaut](https://t.me/Silhaut)
+- 📫 You can reach me in [Instagram](https://www.instagram.com/jakaazd/)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
