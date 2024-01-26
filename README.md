@@ -18,7 +18,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongodb"  width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>    
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original-wordmark.svg" alt="Notion" width="40" height="40"/>
+    <img src="https://i.pcmag.com/imagery/reviews/05FBstbqla0pEWrlFLTw4ML-5.fit_scale.size_2698x1517.jpg" alt="Notion" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java"  width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="go"  width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql"  width="40" height="40"/>
