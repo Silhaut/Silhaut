@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zhalgas</h1>
-<h3 align="center">React Frontend/MERN Fullstack developer from Kazakhstan</h3>
+<h3 align="center">I'm a React Frontend/MERN Fullstack developer from Kazakhstan</h3>
 
 - 👀 I’m interested in creating React frontend or MERN (MongoDB, Express.js, React.js, Node.js) fullstack projects.
 - 🏫 I'm a bachelor's student at [Astana IT University](https://astanait.edu.kz/)
