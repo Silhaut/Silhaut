@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zhalgas</h1>
-<h3 align="center">I'm a React Frontend/MERN Fullstack developer from Kazakhstan</h3>
+<h3 align="center">I'm a MEAN/MERN Fullstack developer from Kazakhstan</h3>
 
 - 👀 I’m interested in creating React frontend or MERN (MongoDB, Express.js, React.js, Node.js) fullstack projects.
 - 🏫 I'm a bachelor's student at [Astana IT University](https://astanait.edu.kz/)
@@ -13,6 +13,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode"  width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm"  width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
